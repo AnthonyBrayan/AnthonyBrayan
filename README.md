@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anthony Brayan](Anthony brayan.png.jpg)
+![Anthony Brayan](Anthony brayan.png)
 
 <!--
 **AnthonyBrayan/AnthonyBrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
