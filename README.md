@@ -23,4 +23,4 @@ Soy un apasionado desarrollador junior con experiencia en HTML, CSS, JavaScript,
 - [LinkedIn] https://www.linkedin.com/in/anthonybrayanfarro%C3%B1ancarranza/
 - Correo electrónico: brayan.farronan@gmail.com
 
-¡Gracias por visitar mi perfil! Espero tener la oportunidad de trabajar contigo o aprender juntos en el mundo del desarrollo web.
+¡Gracias por visitar mi perfil! Espero poder trabajar contigo o aprender juntos en el mundo del desarrollo web.
