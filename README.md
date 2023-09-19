@@ -1,7 +1,7 @@
 ![Anthony Brayan](Anthony%20brayan.png)
 # ¡Hola, Soy Anthony Brayan! 👋
 
-Soy un apasionado desarrollador junior con experiencia en HTML, CSS, JavaScript, bases de datos SQL, C#, React y Node.js. Estoy emocionado de presentarte mi perfil y algunos de mis proyectos destacados.
+Soy un apasionado desarrollador junior con experiencia en HTML, CSS, JavaScript, bases de datos SQL, C#, React y Node.js. Estoy emocionado de presentarte mi perfil.
 
 ## Sobre Mí
 
