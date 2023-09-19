@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Anthony Brayan](Anthony%20brayan.png)
 
 <!--
