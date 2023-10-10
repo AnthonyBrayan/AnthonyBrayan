@@ -12,9 +12,10 @@ Soy un apasionado desarrollador junior con experiencia en HTML, CSS, JavaScript,
 
 ## Mis Habilidades
 
-- **Lenguajes Frontend**: HTML, CSS y JavaScript para crear interfaces de usuario receptivas y elegantes.
-- **Backend y Bases de Datos**: Desarrollo de aplicaciones backend con C# y Node.js, y manejo de bases de datos SQL para almacenamiento de datos seguro.
-- **React**: Creación de aplicaciones web modernas y componentes reutilizables con React.
+- **Lenguajes Frontend**: Html, css, javascript, react, bootstrap.
+- **Back-end**: C#, node.js, java.
+- **Gestión de Bases de Datos**: Microsoft SQL Server, MySql, PostgreSQL..
+- **Control de versiones**: Git y git hub.
 
 ## Contáctame
 
