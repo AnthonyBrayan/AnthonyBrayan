@@ -16,6 +16,8 @@ Soy un apasionado desarrollador junior con experiencia en HTML, CSS, JavaScript,
 - **Back-end**: C#, node.js, java.
 - **Gestión de Bases de Datos**: Microsoft SQL Server, MySql, PostgreSQL..
 - **Control de versiones**: Git y git hub.
+- **Servicio web**: Desarrollo de APIs RESTful, uso de métodos htpp (get, post, put, delete), implementación de autenticación con JSON Web Tokens (JWT)
+Responsive Design.
 
 ## Contáctame
 
