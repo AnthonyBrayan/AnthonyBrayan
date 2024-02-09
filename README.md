@@ -23,7 +23,7 @@ Soy un apasionado Ingeniero de Sistemas Junior Full-Stack, me encanta el mundo d
 
 ## Contáctame
 
-¡Me encantaría conectarme contigo y aprender de tu experiencia! Puedes encontrarme en:
+¡Me encantaría conectarme contigo y compartir de nuestra experiencia! Puedes encontrarme en:
 
 - [LinkedIn] https://www.linkedin.com/in/anthonybrayanfarro%C3%B1ancarranza/
 - Correo electrónico: brayan.farronan@gmail.com
