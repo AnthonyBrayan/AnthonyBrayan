@@ -13,6 +13,7 @@ Soy un apasionado desarrollador junior con experiencia en HTML, CSS, JavaScript,
 ## Mis Habilidades
 
 - **Front-end**: Html, css, javascript, react, bootstrap.
+- **Test Front-end**: Jest y React testing library.
 - **Back-end**: C#, node.js, java.
 - **Gestión de Bases de Datos**: Microsoft SQL Server, MySql, PostgreSQL..
 - **Control de versiones**: Git y git hub.
