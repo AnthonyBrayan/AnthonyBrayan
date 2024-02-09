@@ -5,6 +5,7 @@ Soy un apasionado desarrollador junior con experiencia en HTML, CSS, JavaScript,
 
 ## Sobre Mí
 
+- 👨‍🏫 Apasionado guía, inspirando y cultivando habilidades a futur@s expertos para que descubran su potencial en el mundo del desarrollo web full-stack.
 - 🚀 Actúo como puente entre el diseño y la funcionalidad para crear experiencias de usuario atractivas y dinámicas.
 - 💡 Disfruto resolviendo problemas y aprendiendo nuevas tecnologías.
 - 🌱 Siempre en busca de oportunidades para crecer y mejorar mis habilidades.
